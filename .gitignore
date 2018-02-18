@@ -1,0 +1,12 @@
+*.sass-cache*
+*.DS_Store*
+*.htaccess
+*.log*
+node_modules/
+**/node_modules/
+*.swp
+*.log
+wp-config.php
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
